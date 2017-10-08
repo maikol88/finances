@@ -10,4 +10,4 @@ Only a few links will work:
 
 
 ## Contributors
-[Oksana Sakhniuk](https://gist.github.com/osakhniu)
+[Oksana Sakhniuk](https://github.com/osakhniu)
