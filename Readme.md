@@ -7,3 +7,7 @@ Only a few links will work:
 - See Offers on account page.
 
 ## Application visible at: https://hawk-bank-test.herokuapp.com
+
+
+# Contributors
+[Oksana Sakhniuk](https://gist.github.com/osakhniu)
