@@ -9,5 +9,5 @@ Only a few links will work:
 ## Application visible at: https://hawk-bank-test.herokuapp.com
 
 
-# Contributors
+## Contributors
 [Oksana Sakhniuk](https://gist.github.com/osakhniu)
