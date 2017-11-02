@@ -5,9 +5,3 @@ This is a mockup for the Wells Fargo competition showcasing our idea of  new opt
 Only a few links will work:
 - Login.
 - See Offers on account page.
-
-## Application visible at: https://hawk-bank-test.herokuapp.com
-
-
-## Creator
-[Oksana Sakhniuk](https://github.com/osakhniu)
